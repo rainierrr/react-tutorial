@@ -1,0 +1,13 @@
+version: '3'
+services:
+  node:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: react-totorial
+    volumes:
+      - ./app:/usr/src/app
+    command: sh -c "yarn start"
+    ports:
+      - "3002:3000"
+    stdin_open: true
