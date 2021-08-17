@@ -6,7 +6,7 @@ services:
       dockerfile: Dockerfile
     container_name: react-totorial
     volumes:
-      - ./app:/usr/src/app
+      - ./:/usr/src/app
     command: sh -c "yarn start"
     ports:
       - "3002:3000"
