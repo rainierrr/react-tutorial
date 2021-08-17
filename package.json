@@ -33,8 +33,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://rainierrr.github.io/react-tutorial/",
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
-  }
+  "homepage": "https://rainierrr.github.io/react-tutorial/"
 }
