@@ -1,5 +1,5 @@
 # react-tutorial
-reactのチュートリアル　三目並べゲーム
+reactのチュートリアル 三目並べゲーム
 
 [実際のサイト](https://rainierrr.github.io/react-tutorial/)
 
